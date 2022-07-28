@@ -1,0 +1,13 @@
+{
+    "name": "HelpCenter",
+    "alias": "helpcenter",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\HelpCenter\\Providers\\HelpCenterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
